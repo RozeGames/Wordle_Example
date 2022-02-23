@@ -1,2 +1,2 @@
-# Demo version of the wordle web application
+# Demo version of the wordle web application!
 
